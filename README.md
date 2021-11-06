@@ -45,18 +45,5 @@ result <- apply_binseg(x, 3)
 result
 $loss
 [1] -0.8816667  0.4600000  2.1680000
-$end
-[1] 5 4 0
-$before.mean
-[1] 0.3833333 0.4600000 0.5500000
-$after.mean
-[1] Inf 0.0 0.1
-$before.size
-[1] 6 5 1
-$after.size
-[1] -2  1  4
-$invalidates.index
-[1] -2  0  1
-$invalidates.after
-[1] -2  0  0
+
 ```
