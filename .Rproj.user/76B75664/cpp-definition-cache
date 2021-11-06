@@ -1,0 +1,100 @@
+[
+    {
+        "file": "/Users/ualguest/Desktop/Prapti Assignments/Project/BINSEG/src/BINSEG.cpp",
+        "file_last_write": 1636222238.0,
+        "definitions": [
+            {
+                "usr": "c:@F@get_cumsum#&1$@N@std@N@__1@S@vector>#d#$@N@std@N@__1@S@allocator>#d#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "get_cumsum(const std::vector<double> &)",
+                "file": "/Users/ualguest/Desktop/Prapti Assignments/Project/BINSEG/src/BINSEG.cpp",
+                "line": 3,
+                "column": 21
+            },
+            {
+                "usr": "c:@F@calculate_mean_cost#&1$@N@std@N@__1@S@vector>#d#$@N@std@N@__1@S@allocator>#d#I#I#*d#S3_#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "calculate_mean_cost(const std::vector<double> &, int, int, double *, double *)",
+                "file": "/Users/ualguest/Desktop/Prapti Assignments/Project/BINSEG/src/BINSEG.cpp",
+                "line": 13,
+                "column": 6
+            },
+            {
+                "usr": "c:@S@Split",
+                "kind": 2,
+                "parent_name": "",
+                "name": "Split",
+                "file": "/Users/ualguest/Desktop/Prapti Assignments/Project/BINSEG/src/BINSEG.cpp",
+                "line": 24,
+                "column": 7
+            },
+            {
+                "usr": "c:@S@Split@F@set_mean_cost#&1$@N@std@N@__1@S@vector>#d#$@N@std@N@__1@S@allocator>#d#I#I#I#",
+                "kind": 7,
+                "parent_name": "Split",
+                "name": "set_mean_cost(const std::vector<double> &, int, int, int)",
+                "file": "/Users/ualguest/Desktop/Prapti Assignments/Project/BINSEG/src/BINSEG.cpp",
+                "line": 30,
+                "column": 10
+            },
+            {
+                "usr": "c:@S@Segment",
+                "kind": 2,
+                "parent_name": "",
+                "name": "Segment",
+                "file": "/Users/ualguest/Desktop/Prapti Assignments/Project/BINSEG/src/BINSEG.cpp",
+                "line": 38,
+                "column": 7
+            },
+            {
+                "usr": "c:@S@Candidates",
+                "kind": 2,
+                "parent_name": "",
+                "name": "Candidates",
+                "file": "/Users/ualguest/Desktop/Prapti Assignments/Project/BINSEG/src/BINSEG.cpp",
+                "line": 77,
+                "column": 7
+            },
+            {
+                "usr": "c:@S@Candidates@F@maybe_add#I#I#I#I#d#",
+                "kind": 7,
+                "parent_name": "Candidates",
+                "name": "maybe_add(int, int, int, int, double)",
+                "file": "/Users/ualguest/Desktop/Prapti Assignments/Project/BINSEG/src/BINSEG.cpp",
+                "line": 81,
+                "column": 8
+            },
+            {
+                "usr": "c:@F@BINSEG#*1d#1I#1I#*I#*d#S2_#S2_#S1_#S1_#S1_#S1_#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "BINSEG(const double *, const int, const int, int *, double *, double *, double *, int *, int *, int *, int *)",
+                "file": "/Users/ualguest/Desktop/Prapti Assignments/Project/BINSEG/src/BINSEG.cpp",
+                "line": 95,
+                "column": 5
+            }
+        ]
+    },
+    {
+        "file": "/Users/ualguest/Desktop/Prapti Assignments/Project/BINSEG/src/BINSEG.h",
+        "file_last_write": 1636222345.0,
+        "definitions": []
+    },
+    {
+        "file": "/Users/ualguest/Desktop/Prapti Assignments/Project/BINSEG/src/interface.cpp",
+        "file_last_write": 1636224014.0,
+        "definitions": [
+            {
+                "usr": "c:@F@apply_binseg#1$@N@Rcpp@S@Vector>#VI14#@N@Rcpp@ST>1#T@PreserveStorage#1I#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "apply_binseg(const Rcpp::NumericVector, const int)",
+                "file": "/Users/ualguest/Desktop/Prapti Assignments/Project/BINSEG/src/interface.cpp",
+                "line": 20,
+                "column": 12
+            }
+        ]
+    }
+]
